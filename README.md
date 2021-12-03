@@ -1,2 +1,2 @@
-# renjiepan_example
-An example of Academic Writing, Norms, and Ethics
+# RenjiePan_example
+An example of Academic Writing, Norms, and Ethics by Renjie Pan.
